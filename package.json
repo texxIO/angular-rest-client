@@ -11,6 +11,7 @@
   },
   "private": true,
   "dependencies": {
+
     "@angular/animations": "^6.1.10",
     "@angular/common": "^6.1.10",
     "@angular/compiler": "^6.1.10",
@@ -22,6 +23,7 @@
     "@angular/router": "^6.1.10",
     "core-js": "^2.5.4",
     "rxjs": "^6.6.7",
+
     "zone.js": "^0.8.26"
   },
   "devDependencies": {
